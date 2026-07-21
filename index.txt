@@ -2,3 +2,4 @@ Name: Your Name
 Age: Your Age
 Address: Your Address
 Course: Your Course
+fav movie:your fav movie
